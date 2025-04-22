@@ -2,11 +2,7 @@
 
 **Security Engineer | DevSecOps | Cloud Security | Identity & Access Management (IAM)**
 
-As a security engineer specializing in **DevSecOps, Cloud Security, and Identity & Access Management (IAM)**, I am dedicated to strengthening enterprise security postures through **access control, threat detection, and cloud security governance**. My hands-on experience spans securing critical infrastructures, managing privileged access, and implementing **zero-trust architecture** across multi-cloud environments.
-
-I have a strong foundation in **IAM platforms** such as **CyberArk, Okta, SailPoint, and Microsoft Entra ID (Azure AD)**—enhancing organizational security by safeguarding user access, managing entitlements, and preventing unauthorized access. Additionally, my experience with **SIEM tools like Splunk** allows me to monitor, detect, and respond to security incidents in real-time, ensuring fast and efficient incident response.
-
-With a proven background in **Cloud Security**, I specialize in **Azure and AWS security governance**, securing applications, enforcing **zero-trust principles**, and implementing **multi-layered security frameworks**. My certifications from industry-recognized vendors, including **CompTIA, Microsoft, AWS, and more**, validate my technical competence in **infrastructure security, vulnerability management, and access governance**.
+A highly-driven security engineer specializing in DevOps and DevSecOps, Cloud Security and Identity & Access Management (IAM), I am dedicated to strengthening enterprise security postures through access control, threat detection and cloud security governance. My hands-on experience spans securing critical infrastructures, managing privileged access and implementing zero-trust architecture across multi-cloud environments.
 
 ---
 
@@ -20,7 +16,7 @@ With a proven background in **Cloud Security**, I specialize in **Azure and AWS 
 
 ---
 
-## Featured Projects & Labs
+## Projects & Labs
 
 ### **🔐 Identity & Access Management**
 - **[Managing Permissions](#)** – Configured IAM policies for Linux & Windows environments using chmod, NTFS, and share permissions.
@@ -48,13 +44,6 @@ With a proven background in **Cloud Security**, I specialize in **Azure and AWS 
 
 - **CompTIA Security+** *(2024 - 2027)*
 - **CompTIA A+** *(2023 - 2027)*
-- **Google IT Support & Project Management** *(2024)*
-- **Cloud Computing Security** *(CISA, 2024)*
-- **Generative AI & Responsible AI** *(Accenture, 2024)*
-- **Introduction to PowerShell** *(Microsoft, 2024)*
-- **NDG Linux Unhatched** *(Cisco Networking Academy, 2024)*
-- **Microsoft Entra ID & IAM Security** *(2024)*
-- **AWS Security & Cloud Governance** *(2024)*
 
 ---
 

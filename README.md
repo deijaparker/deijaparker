@@ -1,4 +1,4 @@
-# Hello! I'm Deija Parker 💻
+# Hello, I'm Deija Parker 👋
 
 
 A highly-driven security engineer specializing in DevOps and DevSecOps, Cloud Security and Identity & Access Management (IAM), I am dedicated to strengthening enterprise security postures through access control, threat detection and cloud security governance. My hands-on experience spans securing critical infrastructures, managing privileged access and implementing zero-trust architecture across multi-cloud environments.

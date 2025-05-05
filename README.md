@@ -46,7 +46,7 @@ A driven cloud engineer specializing in DevOps and DevSecOps, Cloud Security and
 
 ---
 
-## My Mission
+## Objective
 
 My objective is to help companies build and maintain a strong cybersecurity posture by implementing cutting-edge IAM solutions, enforcing robust security policies and reducing the attack surface across cloud and on-premise environments. Securing enterprise infrastructures, minimizing security risks and optimizing access governance frameworks to protect organizational assets. Always open to collaborate.
 

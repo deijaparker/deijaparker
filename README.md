@@ -41,8 +41,9 @@ A driven cloud engineer specializing in DevOps and DevSecOps, Cloud Security and
 
 ## Certifications
 
+- **CompTIA A+** *(2024 - 2028)*
+- **CompTIA Network+** *(2025 - 2028)*
 - **CompTIA Security+** *(2024 - 2027)*
-- **CompTIA A+** *(2023 - 2027)*
 
 ---
 
